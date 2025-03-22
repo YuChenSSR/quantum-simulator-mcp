@@ -6,6 +6,7 @@ A Docker image providing a quantum circuit simulator that implements the Model C
 
 ## Features
 
+- Quantum computing simulator with noise models
 - Support for OpenQASM 2.0 quantum circuits
 - Quantum circuit simulation using Qiskit
 - Support for various noise models (depolarizing, thermal relaxation, readout error)
