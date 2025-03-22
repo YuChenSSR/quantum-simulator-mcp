@@ -36,7 +36,7 @@ This command:
 
 ## Using with Claude for Desktop
 
-1. Install [Claude for Desktop](https://claude.ai/download)
+1. Install Claude for Desktop
 2. Edit the Claude configuration file:
    - macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`
    - Windows: `%APPDATA%\Claude\claude_desktop_config.json`
